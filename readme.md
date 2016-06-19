@@ -1,4 +1,4 @@
-# Substance and Blockchains
+# Information and Belief
 
 ## Abstract
 
@@ -13,4 +13,59 @@ we shall handle the geometric instruments afforded to us by Spinoza's
 hyperrationalistic method and rigor in hopes to liberate yet another 
 ghost in the machine of technology.
 
-## Sections
+## Introduction
+
+## Why Badiou?
+
+## Versus Deleuze
+
+## Political Action
+
+## Organisation Politique
+
+## Politics
+
+## After the Event
+
+## Truth
+
+## Subjectivity
+
+## Fidelity
+
+## Event
+
+## Excluded Part
+
+## Evental Site
+
+## State
+
+## Ontology
+
+## Structuralism
+
+## Transcendence
+
+## Sets
+
+## Exclusion of Substance
+
+## Egalitarian Cryptocurrencies
+
+## Untraceable Payments
+
+## Unlinkable Transactions
+
+## Satellite Keys, Convergent Encryption
+
+## Consensus Hashing, and Modal HTML
+
+## ACID-Compliant Transactions
+
+## Adaptive Delimiter Boolean Satisfiability Conditioning Lattices for Block Universes
+
+## Smooth Supply Emission
+
+## C Series as Family Resemblance Vote
+
